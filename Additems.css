@@ -1,0 +1,28 @@
+.main{
+    
+    height: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   top: 25%;
+   left: 35%;
+   position: absolute;
+    flex-direction: column;
+        border-radius: 8px;
+    box-shadow:2px  0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    margin: auto;
+    padding: 0 0 14px 0;
+    width: 396px;
+    
+}
+.mains{
+    
+    display: flex;
+    justify-content: center;
+    height: max-content;
+   top: 15%;
+   left: 38%;
+   position: absolute;
+   
+    
+}
